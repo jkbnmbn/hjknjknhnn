@@ -70,9 +70,12 @@ https://raw.githubusercontent.com/Orz-3/QuantumultX/master/YouTube.conf, tag=You
 
 
 [server_local]
+trojan=rukun-uslossas2.cccoo.co:8858, password=zAtfdlYBOirc3Cfg, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=kurun自用
+
+vmess=45.11.92.72:45456, method=aes-128-gcm, password=baf9daa1-cea2-4e15-8dd1-610621e8d08a, fast-open=false, udp-relay=false, tag=艾云洛杉矶
+
 trojan=brand.dynv6.net:443, password=123456, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=1
 
-vmess=101.32.218.99:65534, method=aes-128-gcm, password=75ed3d48-1634-4aec-d030-cad5a5e70956, obfs=ws, obfs-host=console.cloud.tencent.com, obfs-uri=/developer, fast-open=false, udp-relay=false, tag=新加坡NF
 
 
 vmess=104.243.23.181:80, method=aes-128-gcm, password=5c0fd6dd-9aa5-4e5f-9071-046a2167eb6a, obfs=ws, obfs-uri=/, fast-open=false, udp-relay=false, tag=233v2.com_104.243.23.181
@@ -117,6 +120,4 @@ FINAL,🐟 漏网之鱼
 
 
 hostname = *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com
-
-
 
